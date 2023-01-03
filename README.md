@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>README</title>
+    
   </head>
   <body>
     <h1>Cara Menggunakan Repo Ini</h1>
