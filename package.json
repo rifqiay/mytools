@@ -1,0 +1,13 @@
+{
+  "name": "coba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "chmod +x index.js && sudo ln -s $(pwd)/index.js /usr/local/bin/mytools",
+    "stop": "sudo rm /usr/local/bin/mytools"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
